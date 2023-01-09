@@ -87,6 +87,9 @@ If you want to compile with Sass/SCSS support use `--tags extended` and make sur
 ```bash
 CGO_ENABLED=1 go install --tags extended github.com/gohugoio/hugo@latest
 ```
+## `TODO:`
+
+Create a personal website
 
 ## The Hugo Documentation
 
